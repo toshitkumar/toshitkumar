@@ -10,14 +10,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00A8FF&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=ICT+Process+Trainer+%40+ICT360+(50%2B+Schools+Trained);Full-Stack+Web+%26+Software+Developer;Game+Developer+(Unity%2C+Unreal+Engine%2C+GDevelop);Generative+AI+%26+AI+Agent+Design+Specialist;Robotics+%26+Embedded+Systems+(Arduino%2C+ESP32%2C+Micro%3Abit);Creator+%40+Tech+with+Toshit+(YouTube)" alt="Typing SVG" />
   </a>
 
-  <!-- Minimal & Clean Rounded Pill Buttons (YouTube & Download Resume) -->
+  <!-- Minimal & Clean Rounded Pill Buttons (YouTube, LinkedIn & Download Resume) -->
   <p align="center">
     <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
-      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="44" alt="YouTube Channel - Tech with Toshit"/>
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="42" alt="YouTube Channel - Tech with Toshit"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/toshitkumar" target="_blank">
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="Connect on LinkedIn"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
-      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="44" alt="Download Resume"/>
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
     </a>
   </p>
 
@@ -292,11 +296,15 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
 
   <!-- Minimal & High-Impact Rounded Pill Action Buttons -->
   <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="44" alt="YouTube Channel"/>
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="42" alt="YouTube Channel"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/toshitkumar" target="_blank">
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="LinkedIn Profile"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="44" alt="Download Resume"/>
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
   </a>
 
   <br/><br/>
