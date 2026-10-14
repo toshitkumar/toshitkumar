@@ -1,31 +1,59 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Animated High-Resolution Header Banner (Self-Hosted Vector SVG) -->
   <a href="https://github.com/toshitkumar">
     <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/header.svg" width="100%" alt="Toshit Kumar Chauhan Header"/>
   </a>
 
-  <!-- Animated Typing Title (Electric Blue) -->
+  <!-- Animated Typing Title (Electric Cyber Blue) -->
   <a href="https://github.com/toshitkumar">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00A8FF&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=ICT+Process+Trainer+%40+ICT360+(50%2B+Schools+Trained);Full-Stack+Web+%26+Software+Developer;Game+Developer+(Unity%2C+Unreal+Engine%2C+GDevelop);Generative+AI+%26+AI+Agent+Design+Specialist;Robotics+%26+Embedded+Systems+(Arduino%2C+ESP32%2C+Micro%3Abit);Creator+%40+Tech+with+Toshit+(YouTube)" alt="Typing SVG" />
   </a>
 
-  <!-- High-End Action & Status Buttons -->
+  <!-- Minimal & Clean Rounded Pill Buttons (YouTube & Download Resume) -->
   <p align="center">
-    <a href="mailto:Kumartoshit82@outlook.com">
-      <img src="https://img.shields.io/badge/Email-Kumartoshit82%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="44" alt="YouTube Channel - Tech with Toshit"/>
     </a>
-    <a href="https://www.youtube.com/@TechwithToshit">
-      <img src="https://img.shields.io/badge/YouTube-Tech%20with%20Toshit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+    &nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="44" alt="Download Resume"/>
     </a>
-    <a href="https://github.com/toshitkumar">
-      <img src="https://img.shields.io/badge/GitHub-toshitkumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-    </a>
-    <img src="https://img.shields.io/badge/Location-Noida%2C%20UP-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-    <img src="https://img.shields.io/badge/Education-BCA%20Graduate-10B981?style=for-the-badge&logo=academia&logoColor=white" alt="Education"/>
-    <img src="https://komarev.com/ghpvc/?username=toshitkumar&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
 
+</div>
+
+---
+
+### 📄 Official Resume & Credentials
+
+<div align="center">
+  <p>
+    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
+      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Open_PDF-New_Tab-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="42" alt="Open PDF"/>
+    </a>
+  </p>
+
+  <!-- Interactive Resume Preview Card (Page 1) -->
+  <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_1.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Toshit Kumar Chauhan - Resume Preview Page 1" />
+  </a>
+  <p><i>(Click image to view or download full PDF)</i></p>
+
+  <!-- Expandable Full Resume Pages -->
+  <details>
+    <summary><b>🔍 Click to Expand Full Resume (Pages 2 &amp; 3)</b></summary>
+    <br/>
+    <h4>📄 Page 2 — Work Experience &amp; Key Projects</h4>
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_2.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A;" alt="Resume Page 2" />
+    <br/><br/>
+    <h4>📄 Page 3 — Research Interests, Education &amp; Additional Information</h4>
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_3.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A;" alt="Resume Page 3" />
+  </details>
 </div>
 
 ---
@@ -34,7 +62,7 @@
 
 ```yaml
 Name: Toshit Kumar Chauhan
-Designation: Process Trainer – ICT | Full-Stack Web & Game Developer | AI & Content Specialist
+Designation: Process Trainer – ICT | Full-Stack Web & Game Developer | Content & AI Specialist
 Organization: ICT360 (ARK Tech Innovation Pvt. Ltd), Noida, UP
 Experience: 3+ Years (Trained 50+ Schools in ICT, STEAM, AI & Robotics)
 Education: Bachelor of Computer Applications (BCA) - 2019
@@ -55,10 +83,10 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=toshitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&include_all_commits=true" width="100%" alt="Toshit's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=toshitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00a8ff&icon_color=00a8ff&text_color=ffffff&include_all_commits=true" width="100%" alt="Toshit's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshitkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=a855f7&currStreakNum=ffffff&sideNums=00f0ff" width="100%" alt="Toshit's Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshitkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=00a8ff&fire=2563eb&currStreakNum=ffffff&sideNums=00a8ff" width="100%" alt="Toshit's Streak Stats" />
       </td>
     </tr>
   </table>
@@ -67,7 +95,7 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshitkumar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff&layout=compact" width="100%" alt="Top Languages Bar Graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshitkumar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00a8ff&text_color=ffffff&layout=compact" width="100%" alt="Top Languages Bar Graph" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshitkumar&theme=tokyonight" width="100%" alt="Repos per Language Bar Chart" />
@@ -244,8 +272,8 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
 ### 🎥 Tech with Toshit — YouTube & Content Creation
 
 <div align="center">
-  <a href="https://www.youtube.com/@TechwithToshit">
-    <img src="https://img.shields.io/badge/Subscribe%20to%20Tech%20with%20Toshit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+  <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="44" alt="Tech with Toshit YouTube Channel"/>
   </a>
   <br/><br/>
 </div>
@@ -262,22 +290,18 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
 
 <div align="center">
 
-  <a href="mailto:Kumartoshit82@outlook.com">
-    <img src="https://img.shields.io/badge/Send_Email-Kumartoshit82%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  <!-- Minimal & High-Impact Rounded Pill Action Buttons -->
+  <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="44" alt="YouTube Channel"/>
   </a>
-  <a href="https://www.youtube.com/@TechwithToshit">
-    <img src="https://img.shields.io/badge/YouTube_Channel-Tech_with_Toshit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/toshitkumar">
-    <img src="https://img.shields.io/badge/GitHub_Profile-toshitkumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="tel:+918077718423">
-    <img src="https://img.shields.io/badge/Contact-%2B91_80777_18423-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call/WhatsApp"/>
+  &nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="44" alt="Download Resume"/>
   </a>
 
   <br/><br/>
 
-  <!-- Footer Banner -->
+  <!-- Self-Hosted SVG Footer Banner -->
   <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
 
 </div>

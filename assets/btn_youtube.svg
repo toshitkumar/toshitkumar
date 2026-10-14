@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="46" viewBox="0 0 230 46" fill="none">
+  <defs>
+    <linearGradient id="ytGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0033" />
+      <stop offset="100%" stop-color="#CC0000" />
+    </linearGradient>
+    <linearGradient id="ytBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFA3A3" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#FF3333" stop-opacity="0.8" />
+    </linearGradient>
+    <filter id="ytGlow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Button Background (Full Pill Rounded rx=23) -->
+  <rect x="2" y="2" width="226" height="42" rx="21" fill="url(#ytGrad)" stroke="url(#ytBorder)" stroke-width="1.5" filter="url(#ytGlow)" />
+  
+  <!-- Subtle Top Highlight -->
+  <path d="M 23 4 Q 115 12 207 4" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="1" fill="none" />
+
+  <!-- YouTube Icon -->
+  <g transform="translate(18, 12)">
+    <!-- Red rounded rect badge -->
+    <rect width="30" height="22" rx="6" fill="#FFFFFF" />
+    <polygon points="12,6 21,11 12,16" fill="#FF0000" />
+  </g>
+
+  <!-- Button Text -->
+  <text x="60" y="27" fill="#FFFFFF" font-family="'Segoe UI', 'Inter', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">Tech with Toshit</text>
+  <text x="175" y="27" fill="#FFFFFF" font-family="'Segoe UI', 'Inter', -apple-system, sans-serif" font-size="12" font-weight="500" opacity="0.85">▶</text>
+</svg>
