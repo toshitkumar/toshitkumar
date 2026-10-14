@@ -1,11 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:A855F7,100:0D1117&height=220&section=header&text=Toshit%20Kumar%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Trainer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20Content%20%26%20AI%20Specialist&descAlignY=62&descAlign=50" width="100%" alt="Toshit Kumar Chauhan Header"/>
-
-  <!-- Animated Typing Title -->
   <a href="https://github.com/toshitkumar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=ICT+Process+Trainer+%40+ICT360+(50%2B+Schools+Trained);Full-Stack+Web+%26+Software+Developer;Game+Developer+(Unity%2C+Unreal+Engine%2C+GDevelop);Generative+AI+%26+AI+Agent+Design+Specialist;Robotics+%26+Embedded+Systems+(Arduino%2C+ESP32%2C+Micro%3Abit);Creator+%40+Tech+with+Toshit+(YouTube)" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/header.svg" width="100%" alt="Toshit Kumar Chauhan Header"/>
+  </a>
+
+  <!-- Animated Typing Title (Electric Blue) -->
+  <a href="https://github.com/toshitkumar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00A8FF&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=ICT+Process+Trainer+%40+ICT360+(50%2B+Schools+Trained);Full-Stack+Web+%26+Software+Developer;Game+Developer+(Unity%2C+Unreal+Engine%2C+GDevelop);Generative+AI+%26+AI+Agent+Design+Specialist;Robotics+%26+Embedded+Systems+(Arduino%2C+ESP32%2C+Micro%3Abit);Creator+%40+Tech+with+Toshit+(YouTube)" alt="Typing SVG" />
   </a>
 
   <!-- High-End Action & Status Buttons -->
@@ -276,6 +278,6 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
   <br/><br/>
 
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,50:A855F7,100:00F0FF&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/footer.svg" width="100%" alt="Footer Banner"/>
 
 </div>
