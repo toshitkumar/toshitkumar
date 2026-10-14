@@ -16,7 +16,7 @@
       <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="42" alt="YouTube Channel - Tech with Toshit"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/toshitkumar" target="_blank">
+    <a href="https://www.linkedin.com/in/toshit-kumar-a782901a7/" target="_blank">
       <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="Connect on LinkedIn"/>
     </a>
     &nbsp;&nbsp;
@@ -299,7 +299,7 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
     <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="42" alt="YouTube Channel"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/toshitkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/toshit-kumar-a782901a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="LinkedIn Profile"/>
   </a>
   &nbsp;&nbsp;
