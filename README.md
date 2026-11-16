@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00A8FF&background=0D111700&center=true&vCenter=true&width=750&height=50&lines=ICT+Process+Trainer+%40+ICT360+(50%2B+Schools+Trained);Full-Stack+Web+%26+Software+Developer;Game+Developer+(Unity%2C+Unreal+Engine%2C+GDevelop);Generative+AI+%26+AI+Agent+Design+Specialist;Robotics+%26+Embedded+Systems+(Arduino%2C+ESP32%2C+Micro%3Abit);Creator+%40+Tech+with+Toshit+(YouTube)" alt="Typing SVG" />
   </a>
 
-  <!-- Minimal & Clean Rounded Pill Buttons (YouTube, LinkedIn & Download Resume) -->
+  <!-- Minimal & Clean Rounded Pill Buttons (YouTube & LinkedIn) -->
   <p align="center">
     <a href="https://www.youtube.com/@TechwithToshit" target="_blank">
       <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_youtube.svg" height="42" alt="YouTube Channel - Tech with Toshit"/>
@@ -19,45 +19,8 @@
     <a href="https://www.linkedin.com/in/toshit-kumar-a782901a7/" target="_blank">
       <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="Connect on LinkedIn"/>
     </a>
-    &nbsp;&nbsp;
-    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
-      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
-    </a>
   </p>
 
-</div>
-
----
-
-### 📄 Official Resume & Credentials
-
-<div align="center">
-  <p>
-    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
-      <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Open_PDF-New_Tab-0284C7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="42" alt="Open PDF"/>
-    </a>
-  </p>
-
-  <!-- Interactive Resume Preview Card (Page 1) -->
-  <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank">
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_1.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" alt="Toshit Kumar Chauhan - Resume Preview Page 1" />
-  </a>
-  <p><i>(Click image to view or download full PDF)</i></p>
-
-  <!-- Expandable Full Resume Pages -->
-  <details>
-    <summary><b>🔍 Click to Expand Full Resume (Pages 2 &amp; 3)</b></summary>
-    <br/>
-    <h4>📄 Page 2 — Work Experience &amp; Key Projects</h4>
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_2.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A;" alt="Resume Page 2" />
-    <br/><br/>
-    <h4>📄 Page 3 — Research Interests, Education &amp; Additional Information</h4>
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/resume_preview_page_3.png" width="85%" style="border-radius: 12px; border: 1.5px solid #1E3A8A;" alt="Resume Page 3" />
-  </details>
 </div>
 
 ---
@@ -302,10 +265,7 @@ Combines hands-on technical range — from Arduino-based robotics and full-stack
   <a href="https://www.linkedin.com/in/toshit-kumar-a782901a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_linkedin.svg" height="42" alt="LinkedIn Profile"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/Toshit_Kumar_Chauhan_Resume.pdf" target="_blank" download="Toshit_Kumar_Chauhan_Resume.pdf">
-    <img src="https://raw.githubusercontent.com/toshitkumar/toshitkumar/main/assets/btn_download_resume.svg" height="42" alt="Download Resume"/>
-  </a>
+  
 
   <br/><br/>
 
